@@ -4,4 +4,4 @@ let Country = "Nigeria"
 
 document.getElementById("demo").innerHTML = "Name:" + " " + Name + ".<br>" + 
                                             "Height:" + " " + Height +".<br>" +
-                                            "Country:" + " " + Country ".";
+                                            "Country:" + " " + Country
